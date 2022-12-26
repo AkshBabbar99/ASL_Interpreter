@@ -1,0 +1,11 @@
+opencv-python==4.5.5.62
+numpy==1.23.5
+tqdm
+pandas
+scikit-learn
+joblib
+imutils
+torch == 1.13.1
+torchvision
+albumentations
+matplotlib
